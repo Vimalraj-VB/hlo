@@ -1,0 +1,12 @@
+
+server.port=9292
+
+
+spring.jpa.database=MYSQL
+
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mysql://localhost:3306/employee_management
+spring.datasource.username=root
+spring.datasource.password=password
+spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+

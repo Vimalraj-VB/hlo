@@ -1,0 +1,12 @@
+package com.example.demo.demo.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="demo_project")
+public class TestEntity {
+
+	
+	
+}
